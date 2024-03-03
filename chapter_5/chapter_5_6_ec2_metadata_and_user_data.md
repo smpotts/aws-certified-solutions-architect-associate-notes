@@ -1,4 +1,4 @@
-EC2 Metadata and User Data
+# EC2 Metadata and User Data
 
 What is EC2 Metadata?
 - data about your EC2 instance: private ip address, public ip address, hostname
