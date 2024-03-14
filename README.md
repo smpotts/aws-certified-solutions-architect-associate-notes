@@ -10,5 +10,5 @@ My notes from studying for the AWS Certified Solutions Architect Associate exam.
 [Chapter 5: EC2](chapter_5_ec2)  
 [Chapter 6: EBS & EFS](chapter_6_ebs_efs)  
 [Chapter 7: Databases](chapter_7_databases)  
-[Chapter 8: VPCs](chapter_8_vpcs)
+[Chapter 8: VPCs](chapter_8_vpcs)  
 [Chapter 9: Route 53](chapter_9_route_53)
