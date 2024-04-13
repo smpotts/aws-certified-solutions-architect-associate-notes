@@ -15,3 +15,4 @@ My notes from studying for the AWS Certified Solutions Architect Associate exam.
 [Chapter 10: Elastic Load Balancing & Auto Scaling](chapter_10_elb)  
 [Chapter 11: CloudWatch](chapter_11_cloudwatch)  
 [Chapter 12: Scaling](chapter_12_scaling)
+[Chapter 13: Workflows](chapter_13_workflows)
