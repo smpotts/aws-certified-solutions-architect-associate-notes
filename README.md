@@ -16,4 +16,5 @@ My notes from studying for the AWS Certified Solutions Architect Associate exam.
 [Chapter 11: CloudWatch](chapter_11_cloudwatch)  
 [Chapter 12: Scaling](chapter_12_scaling)  
 [Chapter 13: Workflows](chapter_13_workflows)  
-[Chapter 14: Big Data](chapter_14_big_data)    
+[Chapter 14: Big Data](chapter_14_big_data)  
+[Chapter 15: Serverless Architecture](chapter_15_serverless_architecture)  
