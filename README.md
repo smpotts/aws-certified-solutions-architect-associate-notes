@@ -20,3 +20,4 @@ My notes from studying for the AWS Certified Solutions Architect Associate exam.
 [Chapter 15: Serverless Architecture](chapter_15_serverless_architecture)      
 [Chapter 16: Security](chapter_16_security)  
 [Chapter 17: Automation](chapter_17_automation)  
+[Chapter 18: Caching](chapter_18_caching)  
